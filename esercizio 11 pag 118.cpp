@@ -16,7 +16,8 @@ int main(){
         }
     }else{
         double x= -b/a;
-        cout << "La soluzione dell'equazione è: x= " <<x<<endl;
+        cout << "La soluzione dell'equazione e': x= " <<x<<endl;
     }
     return 0;
+
 }
